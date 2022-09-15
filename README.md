@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi, I'm Dharmik Soni! 
 
-<!--
-**Dharmik2510/Dharmik2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Software Developer pursuing Master in Applied Computer Science at Dalhousie University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ A little more about me...
+const thai = {
+  pronouns: "He" | "Him",
+  code: [Java, Javascript, Typescript, HTML, CSS, Python ],
+  tools: [React, Redux, Node, Express, Styled-Components, Docker, Android],
+  Frameworks: [Spring]
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  
+ challenge: "I am doing the #100DaysOfCode challenge focused on Data Structures and Algorithms"
+}
+
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
