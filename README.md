@@ -11,7 +11,7 @@
 
 ```javascript
  A little more about me...
-const indian = {
+const Dharmik = {
   pronouns: "He" | "Him",
   code: [Java, Javascript, Typescript, HTML, CSS, Python ],
   tools: [ Redux,Styled-Components, Docker, Android, Eclipse, IntelliJ, VS Code, Git, Jira, Postman, Gradel, Maven],
